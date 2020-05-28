@@ -1,0 +1,226 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.1  0.1 167608 11752 ?        Ss   10:36   0:04 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    10:36   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   10:36   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   10:36   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   10:36   0:00 [kworker/0:0H-kblockd]
+root           9  0.0  0.0      0     0 ?        I<   10:36   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    10:36   0:00 [ksoftirqd/0]
+root          11  0.0  0.0      0     0 ?        I    10:36   0:00 [rcu_sched]
+root          12  0.0  0.0      0     0 ?        S    10:36   0:00 [migration/0]
+root          13  0.0  0.0      0     0 ?        S    10:36   0:00 [idle_inject/0]
+root          14  0.0  0.0      0     0 ?        S    10:36   0:00 [cpuhp/0]
+root          15  0.0  0.0      0     0 ?        S    10:36   0:00 [cpuhp/1]
+root          16  0.0  0.0      0     0 ?        S    10:36   0:00 [idle_inject/1]
+root          17  0.0  0.0      0     0 ?        S    10:36   0:00 [migration/1]
+root          18  0.0  0.0      0     0 ?        S    10:36   0:00 [ksoftirqd/1]
+root          20  0.0  0.0      0     0 ?        I<   10:36   0:00 [kworker/1:0H-kblockd]
+root          21  0.0  0.0      0     0 ?        S    10:36   0:00 [cpuhp/2]
+root          22  0.0  0.0      0     0 ?        S    10:36   0:00 [idle_inject/2]
+root          23  0.0  0.0      0     0 ?        S    10:36   0:00 [migration/2]
+root          24  0.0  0.0      0     0 ?        S    10:36   0:00 [ksoftirqd/2]
+root          26  0.0  0.0      0     0 ?        I<   10:36   0:00 [kworker/2:0H-kblockd]
+root          27  0.0  0.0      0     0 ?        S    10:36   0:00 [cpuhp/3]
+root          28  0.0  0.0      0     0 ?        S    10:36   0:00 [idle_inject/3]
+root          29  0.0  0.0      0     0 ?        S    10:36   0:00 [migration/3]
+root          30  0.0  0.0      0     0 ?        S    10:36   0:00 [ksoftirqd/3]
+root          32  0.0  0.0      0     0 ?        I<   10:36   0:00 [kworker/3:0H-kblockd]
+root          33  0.0  0.0      0     0 ?        S    10:36   0:00 [kdevtmpfs]
+root          34  0.0  0.0      0     0 ?        I<   10:36   0:00 [netns]
+root          35  0.0  0.0      0     0 ?        S    10:36   0:00 [rcu_tasks_kthre]
+root          36  0.0  0.0      0     0 ?        S    10:36   0:00 [kauditd]
+root          37  0.0  0.0      0     0 ?        S    10:36   0:00 [khungtaskd]
+root          38  0.0  0.0      0     0 ?        S    10:36   0:00 [oom_reaper]
+root          39  0.0  0.0      0     0 ?        I<   10:36   0:00 [writeback]
+root          40  0.0  0.0      0     0 ?        S    10:36   0:00 [kcompactd0]
+root          41  0.0  0.0      0     0 ?        SN   10:36   0:00 [ksmd]
+root          42  0.0  0.0      0     0 ?        SN   10:36   0:00 [khugepaged]
+root          47  0.0  0.0      0     0 ?        I    10:36   0:00 [kworker/1:1-cgroup_destroy]
+root          77  0.0  0.0      0     0 ?        I    10:36   0:00 [kworker/3:1-events]
+root         136  0.0  0.0      0     0 ?        I<   10:36   0:00 [kintegrityd]
+root         137  0.0  0.0      0     0 ?        I<   10:36   0:00 [kblockd]
+root         138  0.0  0.0      0     0 ?        I<   10:36   0:00 [blkcg_punt_bio]
+root         139  0.0  0.0      0     0 ?        I<   10:36   0:00 [tpm_dev_wq]
+root         140  0.0  0.0      0     0 ?        I<   10:36   0:00 [ata_sff]
+root         141  0.0  0.0      0     0 ?        I<   10:36   0:00 [md]
+root         142  0.0  0.0      0     0 ?        I<   10:36   0:00 [edac-poller]
+root         143  0.0  0.0      0     0 ?        I<   10:36   0:00 [devfreq_wq]
+root         144  0.0  0.0      0     0 ?        S    10:36   0:00 [watchdogd]
+root         149  0.0  0.0      0     0 ?        S    10:36   0:00 [kswapd0]
+root         150  0.0  0.0      0     0 ?        S    10:36   0:00 [ecryptfs-kthrea]
+root         153  0.0  0.0      0     0 ?        I<   10:36   0:00 [kthrotld]
+root         154  0.0  0.0      0     0 ?        I<   10:36   0:00 [acpi_thermal_pm]
+root         155  0.0  0.0      0     0 ?        S    10:36   0:00 [scsi_eh_0]
+root         156  0.0  0.0      0     0 ?        I<   10:36   0:00 [scsi_tmf_0]
+root         157  0.0  0.0      0     0 ?        S    10:36   0:00 [scsi_eh_1]
+root         158  0.0  0.0      0     0 ?        I<   10:36   0:00 [scsi_tmf_1]
+root         160  0.0  0.0      0     0 ?        I<   10:36   0:00 [vfio-irqfd-clea]
+root         162  0.0  0.0      0     0 ?        I<   10:36   0:00 [ipv6_addrconf]
+root         173  0.0  0.0      0     0 ?        I<   10:36   0:00 [kstrp]
+root         177  0.0  0.0      0     0 ?        I<   10:36   0:00 [kworker/u9:0]
+root         193  0.0  0.0      0     0 ?        I<   10:36   0:00 [charger_manager]
+root         243  0.0  0.0      0     0 ?        S    10:36   0:00 [scsi_eh_2]
+root         244  0.0  0.0      0     0 ?        I<   10:36   0:00 [scsi_tmf_2]
+root         248  0.0  0.0      0     0 ?        I<   10:36   0:00 [kworker/1:1H-kblockd]
+root         249  0.0  0.0      0     0 ?        I<   10:36   0:00 [kworker/0:1H-kblockd]
+root         269  0.0  0.0      0     0 ?        I<   10:36   0:00 [kworker/2:1H-kblockd]
+root         270  0.0  0.0      0     0 ?        S    10:36   0:00 [jbd2/sda5-8]
+root         271  0.0  0.0      0     0 ?        I<   10:36   0:00 [ext4-rsv-conver]
+root         280  0.0  0.0      0     0 ?        I<   10:36   0:00 [kworker/3:1H-kblockd]
+root         311  0.0  1.3 183580 84512 ?        S<s  10:36   0:01 /lib/systemd/systemd-journald
+root         340  0.0  0.1  23568  7308 ?        Ss   10:36   0:01 /lib/systemd/systemd-udevd
+root         344  0.0  0.0      0     0 ?        S<   10:36   0:00 [loop0]
+root         351  0.0  0.0      0     0 ?        S<   10:36   0:00 [loop1]
+root         352  0.0  0.0      0     0 ?        S<   10:36   0:00 [loop2]
+root         353  0.0  0.0      0     0 ?        S<   10:36   0:00 [loop3]
+root         354  0.0  0.0      0     0 ?        S<   10:36   0:00 [loop4]
+root         355  0.0  0.0      0     0 ?        S<   10:36   0:00 [loop5]
+root         378  0.0  0.0      0     0 ?        S<   10:36   0:00 [loop6]
+root         379  0.0  0.0      0     0 ?        S<   10:36   0:00 [loop7]
+root         386  0.0  0.0      0     0 ?        I<   10:36   0:00 [iprt-VBoxWQueue]
+root         393  0.0  0.0      0     0 ?        I<   10:36   0:00 [ttm_swap]
+root         413  0.0  0.0      0     0 ?        I<   10:36   0:00 [cryptd]
+systemd+     550  0.0  0.2  24180 13396 ?        Ss   10:36   0:00 /lib/systemd/systemd-resolved
+systemd+     551  0.0  0.1  90412  6304 ?        Ssl  10:36   0:00 /lib/systemd/systemd-timesyncd
+root         578  0.0  0.1 249708  7656 ?        Ssl  10:36   0:00 /usr/lib/accountsservice/accounts-daemon
+root         579  0.0  0.0   2540   780 ?        Ss   10:36   0:00 /usr/sbin/acpid
+avahi        582  0.0  0.0   8500  3520 ?        Ss   10:36   0:00 avahi-daemon: running [piotr-VirtualBox.local]
+root         584  0.0  0.0  20572  2836 ?        Ss   10:36   0:00 /usr/sbin/cron -f
+message+     588  0.0  0.0   9028  6152 ?        Ss   10:36   0:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         590  0.0  0.3 347384 19852 ?        Ssl  10:36   0:00 /usr/sbin/NetworkManager --no-daemon
+root         597  0.0  0.0  81812  3528 ?        Ssl  10:36   0:00 /usr/sbin/irqbalance --foreground
+root         599  0.0  0.3  50432 20160 ?        Ss   10:36   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         601  0.0  0.1 252552 10688 ?        Ssl  10:36   0:00 /usr/lib/policykit-1/polkitd --no-debug
+syslog       605  0.0  0.0 224324  4672 ?        Ssl  10:36   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         609  0.0  0.5 1457148 31164 ?       Ssl  10:36   0:01 /usr/lib/snapd/snapd
+root         611  0.0  0.1 246876  6256 ?        Ssl  10:36   0:00 /usr/libexec/switcheroo-control
+root         619  0.0  0.1  16860  8456 ?        Ss   10:36   0:01 /lib/systemd/systemd-logind
+root         621  0.0  0.2 392788 12692 ?        Ssl  10:36   0:00 /usr/lib/udisks2/udisksd
+root         622  0.0  0.0  13664  4872 ?        Ss   10:36   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        634  0.0  0.0   8320   328 ?        S    10:36   0:00 avahi-daemon: chroot helper
+root         680  0.0  0.2 180424 12696 ?        Ssl  10:36   0:00 /usr/sbin/cups-browsed
+root         682  0.0  0.1 313720 10560 ?        Ssl  10:36   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root         684  0.0  0.1  39184  8524 ?        Ss   10:36   0:00 /usr/sbin/cupsd -l
+root         709  0.0  0.1 250788  8928 ?        Ssl  10:36   0:00 /usr/sbin/gdm3
+root         742  0.0  0.3 129220 23040 ?        Ssl  10:36   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         747  0.0  0.1 178352  9596 ?        Sl   10:36   0:00 gdm-session-worker [pam/gdm-autologin]
+whoopsie     788  0.0  0.2 326844 15728 ?        Ssl  10:36   0:00 /usr/bin/whoopsie -f
+kernoops     790  0.0  0.0  11240   448 ?        Ss   10:36   0:00 /usr/sbin/kerneloops --test
+piotr        808  0.0  0.1  19948 11292 ?        Ss   10:36   0:00 /lib/systemd/systemd --user
+kernoops     809  0.0  0.0  11240   448 ?        Ss   10:36   0:00 /usr/sbin/kerneloops
+piotr        810  0.0  0.0 169004  3552 ?        S    10:36   0:00 (sd-pam)
+piotr        818  0.0  0.3 2730368 19224 ?       S<sl 10:36   0:01 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+piotr        820  0.0  0.4 596736 25228 ?        SNsl 10:36   0:00 /usr/libexec/tracker-miner-fs
+piotr        823  0.0  0.1 546748  8884 ?        SLl  10:36   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+piotr        827  0.0  0.1 175324  6804 tty2     Ssl+ 10:36   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+piotr        830  0.0  0.0   8492  5608 ?        Ss   10:36   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+piotr        832  3.0  2.6 990224 167504 tty2    Sl+  10:36   1:14 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+piotr        837  0.0  0.1 251064  7924 ?        Ssl  10:36   0:00 /usr/libexec/gvfsd
+piotr        852  0.0  0.1 378336  6480 ?        Sl   10:36   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+piotr        858  0.0  0.1 399144  9080 ?        Ssl  10:36   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+piotr        865  0.0  0.1 328076  9036 ?        Ssl  10:36   0:00 /usr/libexec/gvfs-afc-volume-monitor
+piotr        870  0.0  0.1 249288  7072 ?        Ssl  10:36   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+piotr        874  0.0  0.1 247224  6268 ?        Ssl  10:36   0:00 /usr/libexec/gvfs-goa-volume-monitor
+piotr        878  0.0  0.5 553088 35720 ?        Sl   10:36   0:00 /usr/libexec/goa-daemon
+rtkit        880  0.0  0.0 152916  2932 ?        SNsl 10:36   0:00 /usr/libexec/rtkit-daemon
+piotr        927  0.0  0.1 326228  9084 ?        Sl   10:36   0:00 /usr/libexec/goa-identity-service
+piotr        935  0.0  0.1 247016  6360 ?        Ssl  10:36   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+root         940  0.0  0.1 263568  9620 ?        Ssl  10:36   0:00 /usr/lib/upower/upowerd
+piotr        948  0.0  0.2 199704 13924 tty2     Sl+  10:36   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+piotr       1021  0.0  0.0   6032   456 ?        Ss   10:36   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+piotr       1038  0.0  0.1 396268  7696 ?        Ssl  10:36   0:02 /usr/bin/ibus-daemon --daemonize --xim
+piotr       1043  0.0  0.1 174168  7152 ?        Sl   10:36   0:00 /usr/libexec/ibus-memconf
+piotr       1044  0.0  1.1 1014532 71612 ?       Sl   10:36   0:00 /usr/libexec/ibus-ui-gtk3
+piotr       1045  0.0  0.9 977432 62204 ?        Sl   10:36   0:02 /usr/libexec/ibus-extension-gtk3
+piotr       1049  0.0  0.9 899612 58824 ?        Sl   10:36   0:00 /usr/libexec/ibus-x11 --kill-daemon
+piotr       1052  0.0  0.1 247936  7388 ?        Sl   10:36   0:00 /usr/libexec/ibus-portal
+piotr       1088  0.0  0.1 305400  6644 ?        Ssl  10:36   0:00 /usr/libexec/at-spi-bus-launcher
+piotr       1093  0.0  0.0   7348  4364 ?        S    10:36   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+piotr       1102  0.0  0.1 1014828 10796 ?       Ssl  10:36   0:00 /usr/libexec/xdg-desktop-portal
+piotr       1104  0.0  0.1 162884  6344 ?        Sl   10:36   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+piotr       1119  0.0  0.1 468984  6560 ?        Ssl  10:36   0:00 /usr/libexec/xdg-document-portal
+piotr       1122  0.0  0.0 247048  6160 ?        Ssl  10:36   0:00 /usr/libexec/xdg-permission-store
+piotr       1131  0.0  0.5 507856 31548 ?        Ssl  10:36   0:00 /usr/libexec/xdg-desktop-portal-gtk
+piotr       1140  0.0  0.0 156212  5652 ?        Sl   10:36   0:00 /usr/libexec/dconf-service
+piotr       1166  0.0  0.0 101376  4324 ?        Ssl  10:36   0:00 /usr/libexec/gnome-session-ctl --monitor
+piotr       1177  0.0  0.2 635700 16904 ?        Ssl  10:36   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+piotr       1195  0.0  0.1 174288  7180 ?        Sl   10:36   0:00 /usr/libexec/ibus-engine-simple
+piotr       1207  9.0  9.1 5010100 572064 ?      Ssl  10:36   3:39 /usr/bin/gnome-shell
+piotr       1248  0.0  0.3 507596 20288 ?        Sl   10:37   0:00 /usr/libexec/gnome-shell-calendar-server
+piotr       1252  0.0  0.4 401832 25672 ?        Ssl  10:37   0:00 /usr/libexec/evolution-source-registry
+piotr       1273  0.0  0.4 2745144 27072 ?       Sl   10:37   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+piotr       1281  0.0  0.1 325344  8068 ?        Sl   10:37   0:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+piotr       1294  0.0  0.1 321172  6796 ?        Ssl  10:37   0:00 /usr/libexec/gsd-a11y-settings
+piotr       1295  0.0  0.4 590368 30888 ?        Ssl  10:37   0:00 /usr/libexec/gsd-color
+piotr       1296  0.0  0.2 385096 16484 ?        Ssl  10:37   0:00 /usr/libexec/gsd-datetime
+piotr       1298  0.0  0.1 323244  7936 ?        Ssl  10:37   0:00 /usr/libexec/gsd-housekeeping
+piotr       1299  0.0  0.4 357832 29584 ?        Ssl  10:37   0:00 /usr/libexec/gsd-keyboard
+piotr       1301  0.0  0.5 913164 31988 ?        Ssl  10:37   0:00 /usr/libexec/gsd-media-keys
+piotr       1302  0.0  0.4 432168 30096 ?        Ssl  10:37   0:00 /usr/libexec/gsd-power
+piotr       1307  0.0  0.1 259464 11328 ?        Ssl  10:37   0:00 /usr/libexec/gsd-print-notifications
+piotr       1308  0.0  0.1 468468  6276 ?        Ssl  10:37   0:00 /usr/libexec/gsd-rfkill
+piotr       1309  0.0  0.0 246880  5808 ?        Ssl  10:37   0:00 /usr/libexec/gsd-screensaver-proxy
+piotr       1310  0.0  0.1 476156 10208 ?        Ssl  10:37   0:00 /usr/libexec/gsd-sharing
+piotr       1314  0.0  0.1 326544 10280 ?        Ssl  10:37   0:00 /usr/libexec/gsd-smartcard
+piotr       1317  0.0  0.1 330768  9360 ?        Ssl  10:37   0:00 /usr/libexec/gsd-sound
+piotr       1318  0.0  0.1 470212  7456 ?        Ssl  10:37   0:00 /usr/libexec/gsd-usb-protection
+piotr       1320  0.0  0.4 283564 28904 ?        Ssl  10:37   0:00 /usr/libexec/gsd-wacom
+piotr       1322  0.0  0.1 325500  8280 ?        Ssl  10:37   0:00 /usr/libexec/gsd-wwan
+piotr       1323  0.0  0.4 358460 30372 ?        Ssl  10:37   0:00 /usr/libexec/gsd-xsettings
+piotr       1330  0.0  0.4 850228 30540 ?        Ssl  10:37   0:00 /usr/libexec/evolution-calendar-factory
+piotr       1377  0.0  0.9 793864 61216 ?        Sl   10:37   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+piotr       1381  0.0  0.0 231792  5520 ?        Sl   10:37   0:00 /usr/libexec/gsd-disk-utility-notify
+piotr       1404  0.4  3.5 1240500 223032 ?      Sl   10:37   0:11 /snap/snap-store/454/usr/bin/snap-store --gapplication-service
+colord      1428  0.0  0.2 257692 14612 ?        Ssl  10:37   0:00 /usr/libexec/colord
+piotr       1454  0.0  0.2 353536 14920 ?        Sl   10:37   0:00 /usr/libexec/gsd-printer
+piotr       1467  0.0  0.4 684776 29716 ?        Ssl  10:37   0:00 /usr/libexec/evolution-addressbook-factory
+root        1567  0.0  0.6 404944 38572 ?        Ssl  10:37   0:00 /usr/libexec/fwupd/fwupd
+piotr       2207  2.9  4.9 1119340 305216 ?      SLl  10:37   1:09 /usr/lib/x86_64-linux-gnu/opera/opera --new-window
+piotr       2214  0.0  1.0 276108 65024 ?        S    10:37   0:00 /usr/lib/x86_64-linux-gnu/opera/opera --type=zygote
+piotr       2217  0.0  0.2 276108 15472 ?        S    10:37   0:00 /usr/lib/x86_64-linux-gnu/opera/opera --type=zygote
+piotr       2236  1.1  2.5 403992 159128 ?       Sl   10:37   0:27 /usr/lib/x86_64-linux-gnu/opera/opera --type=gpu-process --field-trial-handle=12487989258892334437,3583285924198486156,131072 --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --gpu-preferences=MAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA= --shared-files
+piotr       2241  0.2  1.4 343272 91208 ?        SLl  10:37   0:06 /usr/lib/x86_64-linux-gnu/opera/opera --type=utility --field-trial-handle=12487989258892334437,3583285924198486156,131072 --lang=pl --service-sandbox-type=network --enable-quic --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --shared-files=v8_snapshot_data:100
+piotr       2249  0.0  0.2 245472 12868 ?        S    10:37   0:00 /usr/lib/x86_64-linux-gnu/opera/opera --type=broker
+piotr       2261  0.0  0.1 173624  6536 ?        Ssl  10:38   0:00 /usr/libexec/gvfsd-metadata
+piotr       2279  0.0  0.5 432244 32068 ?        Sl   10:38   0:00 update-notifier
+piotr       2812  0.0  1.4 4587876 88672 ?       Sl   10:38   0:00 /usr/lib/x86_64-linux-gnu/opera/opera --type=renderer --field-trial-handle=12487989258892334437,3583285924198486156,131072 --lang=pl --extension-process --enable-auto-reload --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+piotr       2900  0.2  1.9 4617900 122384 ?      Sl   10:38   0:05 /usr/lib/x86_64-linux-gnu/opera/opera --type=renderer --field-trial-handle=12487989258892334437,3583285924198486156,131072 --lang=pl --enable-auto-reload --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+piotr       2901  0.0  0.8 4564856 52764 ?       Sl   10:38   0:00 /usr/lib/x86_64-linux-gnu/opera/opera --type=renderer --field-trial-handle=12487989258892334437,3583285924198486156,131072 --lang=pl --enable-auto-reload --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+piotr       2914  0.0  0.8 4564856 53496 ?       Sl   10:38   0:00 /usr/lib/x86_64-linux-gnu/opera/opera --type=renderer --field-trial-handle=12487989258892334437,3583285924198486156,131072 --lang=pl --enable-auto-reload --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=9 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+piotr       2933  0.1  2.1 4637408 134052 ?      Sl   10:38   0:03 /usr/lib/x86_64-linux-gnu/opera/opera --type=renderer --field-trial-handle=12487989258892334437,3583285924198486156,131072 --lang=pl --enable-auto-reload --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=11 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+piotr       3017  0.0  0.9 561216 60408 ?        Sl   10:38   0:00 /usr/lib/x86_64-linux-gnu/opera/opera --type=utility --field-trial-handle=12487989258892334437,3583285924198486156,131072 --lang=pl --service-sandbox-type=audio --enable-quic --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --shared-files=v8_snapshot_data:100
+piotr       3038  0.0  1.6 4606780 102660 ?      Sl   10:38   0:00 /usr/lib/x86_64-linux-gnu/opera/opera --type=renderer --field-trial-handle=12487989258892334437,3583285924198486156,131072 --disable-gpu-compositing --lang=pl --extension-process --enable-auto-reload --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=16 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+piotr       4595  0.0  0.0   6032  3824 ?        S    10:43   0:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+root        4614  0.0  0.0      0     0 ?        I    10:43   0:00 [kworker/1:0-events]
+piotr       4692  0.7  2.5 4694292 156660 ?      Sl   10:44   0:15 /usr/lib/x86_64-linux-gnu/opera/opera --type=renderer --field-trial-handle=12487989258892334437,3583285924198486156,131072 --disable-gpu-compositing --lang=pl --enable-auto-reload --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=28 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+root        4713  0.0  0.0      0     0 ?        I    10:44   0:00 [kworker/2:0-events]
+piotr       4802  1.6  4.3 4815332 268100 ?      Sl   10:45   0:31 /usr/lib/x86_64-linux-gnu/opera/opera --type=renderer --field-trial-handle=12487989258892334437,3583285924198486156,131072 --disable-gpu-compositing --lang=pl --enable-auto-reload --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=31 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+piotr       4824  1.1  2.5 4707140 156812 ?      Sl   10:45   0:22 /usr/lib/x86_64-linux-gnu/opera/opera --type=renderer --field-trial-handle=12487989258892334437,3583285924198486156,131072 --disable-gpu-compositing --lang=pl --enable-auto-reload --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=32 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+root        5950  0.0  0.0      0     0 ?        I    10:47   0:00 [kworker/0:0-memcg_kmem_cache]
+piotr       6015  0.7  3.6 4756780 224452 ?      Sl   10:47   0:13 /usr/lib/x86_64-linux-gnu/opera/opera --type=renderer --field-trial-handle=12487989258892334437,3583285924198486156,131072 --disable-gpu-compositing --lang=pl --enable-auto-reload --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=35 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+root        6351  0.0  0.0      0     0 ?        I    10:54   0:00 [kworker/u8:0-events_unbound]
+piotr       6515  0.0  0.8 4564856 53104 ?       Sl   10:58   0:00 /usr/lib/x86_64-linux-gnu/opera/opera --type=renderer --field-trial-handle=12487989258892334437,3583285924198486156,131072 --disable-gpu-compositing --lang=pl --enable-auto-reload --with-feature:new-autoupdater-logic=on --ab_tests=DNA-70598-test:DNA-70598,DNA-72006-test:DNA-72006 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=36 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+root        6544  0.0  0.0      0     0 ?        I    10:58   0:00 [kworker/2:1-events]
+piotr       7727  0.5  2.1 657772 132556 ?       Sl   11:07   0:03 /usr/share/discord/Discord
+piotr       7732  0.0  0.6 203592 41252 ?        S    11:07   0:00 /usr/share/discord/Discord --type=zygote
+piotr       7734  0.0  0.1 203592  6992 ?        S    11:07   0:00 /usr/share/discord/Discord --type=zygote
+piotr       7758  0.3  1.2 273452 78084 ?        Sl   11:07   0:01 /usr/share/discord/Discord --type=gpu-process --field-trial-handle=16907955107665981166,7614639341587110267,131072 --disable-features=SpareRendererForSitePerProcess --gpu-preferences=KAAAAAAAAAAgAAAgAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA --service-request-channel-token=11820482231936828541
+piotr       7766  0.0  0.1 209988  9500 ?        S    11:07   0:00 /usr/share/discord/Discord --type=broker
+piotr       7771  0.0  0.9 275480 62088 ?        Sl   11:07   0:00 /usr/share/discord/Discord --type=utility --field-trial-handle=16907955107665981166,7614639341587110267,131072 --disable-features=SpareRendererForSitePerProcess --lang=pl --service-sandbox-type=network --service-request-channel-token=4996503595239537644 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+piotr       7804  2.6  3.9 1150872 248216 ?      Sl   11:07   0:15 /usr/share/discord/Discord --type=renderer --autoplay-policy=no-user-gesture-required --field-trial-handle=16907955107665981166,7614639341587110267,131072 --disable-features=SpareRendererForSitePerProcess --disable-gpu-compositing --lang=pl --app-path=/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/piotr/.config/discord/0.0.10/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --background-color=#202225 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=13886190679317304290 --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+piotr       7827  0.0  0.7 521068 48436 ?        Sl   11:07   0:00 /usr/share/discord/Discord --type=utility --field-trial-handle=16907955107665981166,7614639341587110267,131072 --disable-features=SpareRendererForSitePerProcess --lang=pl --service-sandbox-type=audio --service-request-channel-token=6268365280655530525 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+root        8001  0.0  0.0      0     0 ?        I    11:08   0:00 [kworker/u8:1-events_unbound]
+root        8084  0.0  0.0      0     0 ?        I    11:10   0:00 [kworker/3:2-events]
+root        8103  0.0  0.0      0     0 ?        I    11:10   0:00 [kworker/3:3-events]
+root        8245  0.0  0.0      0     0 ?        I    11:10   0:00 [kworker/1:2-events]
+root        8304  0.0  0.0      0     0 ?        I    11:10   0:00 [kworker/2:2-events]
+root        8306  0.0  0.0      0     0 ?        I    11:10   0:00 [kworker/0:3-mm_percpu_wq]
+piotr       8420  0.3  0.8 969924 51548 ?        Rsl  11:11   0:01 /usr/libexec/gnome-terminal-server
+piotr       8431  0.0  0.0  22164  5292 pts/0    Ss   11:11   0:00 bash
+piotr       8589  0.0  0.1 399316  8700 ?        Sl   11:13   0:00 /usr/libexec/gvfsd-network --spawner :1.3 /org/gtk/gvfs/exec_spaw/1
+piotr       8622  0.0  0.1 326320  8228 ?        Sl   11:13   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.3 /org/gtk/gvfs/exec_spaw/3
+piotr       8782  1.8  1.7 1487484 109024 ?      Sl   11:13   0:03 evince /home/piotr/Pulpit/linux.pdf
+piotr       8788  0.0  0.0 156048  5364 ?        Sl   11:13   0:00 /usr/libexec/evinced
+root        8839  0.0  0.0      0     0 ?        I    11:13   0:00 [kworker/1:3-cgroup_destroy]
+root        8840  0.0  0.0      0     0 ?        I    11:13   0:00 [kworker/2:3]
+piotr       8977  0.0  0.0  22724  3332 pts/0    R+   11:17   0:00 ps aux

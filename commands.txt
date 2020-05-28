@@ -1,0 +1,54 @@
+  650  cd magiaterminala/
+  651  git init
+  652  git status
+  653  git branch
+  654  git status
+  655  git remote -v
+  656  touch processes.txt
+  657  ps aux
+  658* 
+  659  ps aux > processes.txt 
+  660  cat processes.txt 
+  661  cp processes.txt copy.txt
+  662  ls
+  663  rm ps 
+  664  ls
+  665  mkdir kopia
+  666  ls
+  667  mv copy.txt ./kopia/
+  668  ls
+  669  cat processes.txt  | wc -l
+  670  cat processes.txt 
+  671  cat processes.txt  | wc -l >> processes.txt 
+  672  cat processes.txt 
+  673  grep /bin  processes.txt >> cat processes.txt 
+  674  cat processes.txt 
+  675  grep /bin  processes.txt
+  676  cat processes.txt 
+  677  grep /bin  processes.txt >> processes.txt 
+  678  cat processes.txt 
+  679  grep /bin  processes.txt >> processes.txt 
+  680  grep /bin  processes.txt
+  681  grep /bin  processes.txt | >> processes.txt 
+  682  cat processes.txt 
+  683  grep /bin  processes.txt | end  >> processes.txt 
+  684  grep /bin  processes.txt  >> processes.txt 
+  685  grep /bin  processes.txt | >> processes.txt 
+  686  cat processes.txt 
+  687  cd kopia/
+  688  ls
+  689  cat copy.txt 
+  690  cd ..
+  691  ls
+  692  rm cat 
+  693  ls
+  694  grep /bin  processes.txt
+  695  grep -n /bin  processes.txt | tail >> processes.txt 
+  696  cat processes.txt 
+  697  history
+  698  history --help
+  699  history
+  700  history | tail -n 50
+  701  history | tail -n 53 > cat commands.txt
+  702  history | tail -n 53 > touch commands.txt
+  703  history | tail -n 54 > commands.txt
